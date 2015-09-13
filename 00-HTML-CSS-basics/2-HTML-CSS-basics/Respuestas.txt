@@ -1,0 +1,33 @@
+Specificity
+
+-How could you add weight to the global font definition to win over the classes added by point 3?
+
+element value =0001
+class, pseudo-Class, atribute value=0010
+id value=0100
+Style atrybute value=1000
+
+The universal selector * has no specificity
+* {
+    font-size: 50px;
+}
+
+The modifier "! Important" applied to a style attribute has more specificity
+
+A specificity equal always wins the selector that is defined later in the page
+
+
+-Imagine there is a declaration like class=”oh-no-inline-styles” style=”background:red”
+ and you need to change the background to green without changing the inline style.
+ How could you accomplish this?
+
+<article class="class1 class2" >
+    123456789
+</article>
+
+.Class1{
+    background: red;
+}
+.class1.class2{
+    background: green;
+}
