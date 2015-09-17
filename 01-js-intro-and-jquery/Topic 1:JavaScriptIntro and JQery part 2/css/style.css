@@ -1,0 +1,17 @@
+.title {
+    background-color: darkslategrey;
+    text-align: center;
+    display: block;
+    height: 60px;
+    color: aliceblue;
+}
+
+.section {
+    text-align: center;
+    margin-top: 10px;
+    float: right;
+    width: 30%;
+    background-color: dimgray;
+    border-radius: 11px 11px 11px 11px;
+    border: 9px solid #1f171f;
+}
