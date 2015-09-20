@@ -54,7 +54,7 @@ MovieOberver.prototype = {
 };
 
 var rocky = new Movie('Rocky IV', 'Sylvester Stallone', '1,5');
-var person1 = new MovieOberver('Marquitos');
+var person1 = new MovieOberver('Roberto');
 var person2 = new MovieOberver('Juancito');
 
 rocky.subscribeObserver(person1);
