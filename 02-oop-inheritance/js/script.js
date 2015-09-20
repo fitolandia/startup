@@ -35,6 +35,7 @@ Movie.prototype = {
     unsubscribeObserver: function (observer) {
         this.movieObservers.splice(this.movieObservers.indexOf(observer), 1);
     }
+
 };
 
 var MovieOberver = function (name) {
@@ -65,7 +66,24 @@ rocky.unsubscribeObserver(person2);
 var DownloadableMovie = function () {};
 
 DownloadableMovie.prototype = Movie.prototype;
-DownloadableMovie.prototype.download = function () {console.log('downloading')};
+DownloadableMovie.prototype.download = function () {
+    console.log('downloading');
+};
 
 var downloadableMovie = new DownloadableMovie();
 downloadableMovie.download();
+
+var SocialMixin = function () {
+    this.share= function (user) {
+        console.log('Share this with ' + user.name);
+    };
+
+    this.like= function (person) {
+        console.log(person.name + ' like this');
+    };
+
+    return this;
+};
+
+SocialMixin.call(Movie.prototype);
+
