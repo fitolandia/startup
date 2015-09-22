@@ -1,0 +1,50 @@
+.content {
+    background-color: #2F2F2F;
+    color: #2F2F2F;
+    overflow: hidden;
+}
+
+.box {
+    background-image: url(http://djacademy.edu.co/wp-content/uploads/2014/11/How-to-secure-DJ-gig.jpg);
+    background-size: cover;
+    float: left;
+    margin: 5px;
+    min-height: 500px;
+    width: calc(33.33% - 10px);
+}
+
+.info {
+    background-color: #FFF;
+    height: 30%;
+    opacity: 0;
+    text-align: center;
+    text-transform: capitalize;
+    width: 100%;
+    -webkit-transition: all 0.7s ease-out;
+}
+
+.box:hover .info {
+    opacity: 0.5;
+    padding-top: 20%;
+}
+
+.headline {
+    font-size: 30px;
+}
+
+.header,
+.footer {
+    background-color: #2F2F2F;
+    color: #FFFFFF;
+    margin: 0;
+}
+
+.title {
+    margin: 0;
+    text-align: center;
+}
+
+.footer {
+    clear: both;
+}
+
