@@ -35,6 +35,7 @@ Movie.prototype = {
     unsubscribeObserver: function (observer) {
         this.movieObservers.splice(this.movieObservers.indexOf(observer), 1);
     }
+
 };
 
 var MovieOberver = function (name) {
@@ -53,9 +54,11 @@ MovieOberver.prototype = {
     }
 };
 
-var rocky = new Movie('Rocky IV', 'Sylvester Stallone', '1,5');
-var person1 = new MovieOberver('Marquitos');
-var person2 = new MovieOberver('Juancito');
+
+var rocky = new Movie('rocky IV', 'sylvester stallone', '1,5');
+
+var person1 = new MovieOberver('roberto');
+var person2 = new MovieOberver('juancito');
 
 rocky.subscribeObserver(person1);
 rocky.subscribeObserver(person2);
@@ -65,7 +68,32 @@ rocky.unsubscribeObserver(person2);
 var DownloadableMovie = function () {};
 
 DownloadableMovie.prototype = Movie.prototype;
-DownloadableMovie.prototype.download = function () {console.log('downloading')};
+DownloadableMovie.prototype.download = function () {
+    console.log('downloading');
+};
 
 var downloadableMovie = new DownloadableMovie();
 downloadableMovie.download();
+
+function extend (Movie, SocialMixin) {
+    for (var property in SocialMixin) {
+        if (SocialMixin.hasOwnProperty(property)) {
+            Movie[property] = SocialMixin[property];
+        }
+    }
+    return Movie;
+}
+
+var SocialMixin = {
+    share: function (user) {
+        console.log('Share this with ' + user.name);
+    },
+
+    like: function (user) {
+        console.log(user.name + ' like this');
+    }
+};
+
+extend(Movie.prototype, SocialMixin);
+
+
