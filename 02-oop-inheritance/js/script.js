@@ -54,9 +54,11 @@ MovieOberver.prototype = {
     }
 };
 
-var rocky = new Movie('Rocky IV', 'Sylvester Stallone', '1,5');
-var person1 = new MovieOberver('Roberto');
-var person2 = new MovieOberver('Juancito');
+
+var rocky = new Movie('rocky IV', 'sylvester stallone', '1,5');
+
+var person1 = new MovieOberver('roberto');
+var person2 = new MovieOberver('juancito');
 
 rocky.subscribeObserver(person1);
 rocky.subscribeObserver(person2);
@@ -73,17 +75,25 @@ DownloadableMovie.prototype.download = function () {
 var downloadableMovie = new DownloadableMovie();
 downloadableMovie.download();
 
-var SocialMixin = function () {
-    this.share= function (user) {
+function extend (Movie, SocialMixin) {
+    for (var property in SocialMixin) {
+        if (SocialMixin.hasOwnProperty(property)) {
+            Movie[property] = SocialMixin[property];
+        }
+    }
+    return Movie;
+}
+
+var SocialMixin = {
+    share: function (user) {
         console.log('Share this with ' + user.name);
-    };
+    },
 
-    this.like= function (person) {
-        console.log(person.name + ' like this');
-    };
-
-    return this;
+    like: function (user) {
+        console.log(user.name + ' like this');
+    }
 };
 
-SocialMixin.call(Movie.prototype);
+extend(Movie.prototype, SocialMixin);
+
 
