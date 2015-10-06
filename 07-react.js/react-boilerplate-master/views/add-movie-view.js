@@ -1,11 +1,13 @@
 var React = require('react');
-var StoreMovie = require('../components/store-movie');
+var _ = require('lodash');
+
+var Button = require('../components/button');
 var Input = require('../components/input');
 var FormGroup = require('../components/form-group');
-var Button = require('../components/button');
 var Movie = require('../lib/movie');
 var MovieTable = require('../components/movie-table');
-var _ = require('lodash');
+var Title = require('../components/title-component');
+
 
 var AddMovieView = React.createClass({
     getInitialState: function () {
@@ -20,7 +22,7 @@ var AddMovieView = React.createClass({
     render: function() {
         return(
             <div>
-                <StoreMovie/>
+                <Title/>
                 <Input label="Title " onChange={this.handleInputChange.bind(this, 'title')}/>
                 <Input label="Duration " onChange={this.handleInputChange.bind(this, 'duration')}/>
                 <Input label="Director " onChange={this.handleInputChange.bind(this, 'director')}/>
@@ -50,7 +52,7 @@ var AddMovieView = React.createClass({
 
         movies.push(movie);
 
-        this.setState({ movies: movies });
+        this.setState({movies: movies});
     },
 
     handleDeleteMovie: function (index) {

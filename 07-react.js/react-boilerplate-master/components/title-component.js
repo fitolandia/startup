@@ -1,7 +1,7 @@
 // VENDOR LIBS
 var React = require('react');
 
-var StoreMovie = React.createClass({
+var Title = React.createClass({
     render: function() {
         return(
             <h1>Create movie</h1>
@@ -9,4 +9,4 @@ var StoreMovie = React.createClass({
     }
 });
 
-module.exports = StoreMovie;
+module.exports = Title;

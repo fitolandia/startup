@@ -1,5 +1,6 @@
 var React = require('react');
 var _= require('lodash');
+
 var Button = require('../components/button');
 
 var MovieTable = React.createClass ({
