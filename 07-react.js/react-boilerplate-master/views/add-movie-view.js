@@ -6,10 +6,11 @@ var Input = require('../components/input');
 var FormGroup = require('../components/form-group');
 var Movie = require('../lib/movie');
 var MovieTable = require('../components/movie-table');
-var Title = require('../components/title-component');
+var Title = require('../components/title');
 
 
 var AddMovieView = React.createClass({
+
     getInitialState: function () {
         return {
             duration: '',

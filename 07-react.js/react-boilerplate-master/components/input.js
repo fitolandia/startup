@@ -19,17 +19,17 @@ var Input = React.createClass({
     render: function () {
         return (
             <div>
-                <span>{this.props.label}</span>
-                <input {...this.getProps()}/>
+                <label>{this.props.label}</label>
+                <input {...this.getProps()} />
             </div>
         );
     },
 
     getProps: function () {
         return {
-         placeholder: this.props.label,
-         value: this.getValue(),
-         onChange: this.handleChange
+            placeholder: this.props.label,
+            value: this.getValue(),
+            onChange: this.handleChange
         };
     },
 

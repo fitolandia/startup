@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0d7b07e-058b-4ea9-8ff5-97793ed9784d" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-react.js/react-boilerplate-master/components/title-component.js" afterPath="$PROJECT_DIR$/07-react.js/react-boilerplate-master/components/title.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/07-react.js/react-boilerplate-master/views/add-movie-view.js" afterPath="$PROJECT_DIR$/07-react.js/react-boilerplate-master/views/add-movie-view.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/07-react.js/react-boilerplate-master/components/button.js" afterPath="$PROJECT_DIR$/07-react.js/react-boilerplate-master/components/button.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/07-react.js/react-boilerplate-master/components/form-group.js" afterPath="$PROJECT_DIR$/07-react.js/react-boilerplate-master/components/form-group.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/07-react.js/react-boilerplate-master/components/input.js" afterPath="$PROJECT_DIR$/07-react.js/react-boilerplate-master/components/input.js" />
+    </list>
+    <ignored path="startup.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="startup" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="add-movie-view.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07-react.js/react-boilerplate-master/views/add-movie-view.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="form-group.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07-react.js/react-boilerplate-master/components/form-group.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+              <folding>
+                <marker date="1444704961605" expanded="true" signature="120:180" placeholder="&lt;xml/&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="input.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07-react.js/react-boilerplate-master/components/input.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.8359133">
+              <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="button.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07-react.js/react-boilerplate-master/components/button.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Html5" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="01-js-intro-and-jquery" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/00-HTML-CSS-basics/2-HTML-CSS-basics/index.html" />
+        <option value="$PROJECT_DIR$/00-HTML-CSS-basics/2-HTML-CSS-basics-2.5.2/index.html" />
+        <option value="$PROJECT_DIR$/00-HTML-CSS-basics/2-HTML-CSS-basics-2.5.2/css/style.css" />
+        <option value="$PROJECT_DIR$/01-js-intro-and-jquery/css/style.css" />
+        <option value="$PROJECT_DIR$/00-HTML-CSS-basics/2-HTML-CSS-basics-2.5.3/index.html" />
+        <option value="$PROJECT_DIR$/00-HTML-CSS-basics/2-HTML-CSS-basics-2.5.3/css/style.css" />
+        <option value="$PROJECT_DIR$/01-js-intro-and-jquery/Tema 1: Introducción JavaScript y jQuery/css/style.css" />
+        <option value="$PROJECT_DIR$/01-js-intro-and-jquery/Tema 1: Introducción JavaScript y jQuery/index.html" />
+        <option value="$PROJECT_DIR$/01-js-intro-and-jquery/Topic 1: JavaScript Intro and jQuery/css/normalize.css" />
+        <option value="$PROJECT_DIR$/01-js-intro-and-jquery/Topic 1: JavaScript Intro and jQuery/css/style.css" />
+        <option value="$PROJECT_DIR$/01-js-intro-and-jquery/Topic 1:JavaScriptIntro and JQery part 2/js/prueba.js" />
+        <option value="$PROJECT_DIR$/01-js-intro-and-jquery/Topic 1:JavaScriptIntro and JQery part 2/index.html" />
+        <option value="$PROJECT_DIR$/01-js-intro-and-jquery/Topic 1:JavaScriptIntro and JQery part 2/css/style.css" />
+        <option value="$PROJECT_DIR$/01-js-intro-and-jquery/Topic 1: JavaScript Intro and jQuery/index.html" />
+        <option value="$PROJECT_DIR$/01-js-intro-and-jquery/Topic 1: JavaScript Intro and jQuery/js/script.js" />
+        <option value="$PROJECT_DIR$/01-js-intro-and-jquery/Topic 1:JavaScriptIntro and JQery part 2/js/script.js" />
+        <option value="$PROJECT_DIR$/02-oop-inheritance/index.html" />
+        <option value="$PROJECT_DIR$/02-oop-inheritance/js/script.js" />
+        <option value="$PROJECT_DIR$/director.js" />
+        <option value="$PROJECT_DIR$/03-Node-npm-modules/package.json" />
+        <option value="$PROJECT_DIR$/03-Node-npm-modules/js/script.js" />
+        <option value="$PROJECT_DIR$/03-Node-npm-modules/js/index.js" />
+        <option value="$PROJECT_DIR$/03-Node-npm-modules/index.html" />
+        <option value="$PROJECT_DIR$/03-Node-npm-modules/js/director.js" />
+        <option value="$PROJECT_DIR$/03-Node-npm-modules/js/movie.js" />
+        <option value="$PROJECT_DIR$/07-react.js/react-boilerplate-master/views/create-movie.js" />
+        <option value="$PROJECT_DIR$/07-react.js/react-boilerplate-master/views/store-movie.js" />
+        <option value="$PROJECT_DIR$/07-react.js/react-boilerplate-master/components/_tests_/imput.js" />
+        <option value="$PROJECT_DIR$/07-react.js/react-boilerplate-master/components/imput.js" />
+        <option value="$PROJECT_DIR$/07-react.js/react-boilerplate-master/build/css/dtyles.css" />
+        <option value="$PROJECT_DIR$/07-react.js/react-boilerplate-master/html/index.html" />
+        <option value="$PROJECT_DIR$/07-react.js/react-boilerplate-master/build/index.html" />
+        <option value="$PROJECT_DIR$/07-react.js/react-boilerplate-master/components/fotm-group.js" />
+        <option value="$PROJECT_DIR$/07-react.js/react-boilerplate-master/components/store-movie.js" />
+        <option value="$PROJECT_DIR$/07-react.js/react-boilerplate-master/build/css/styles.css" />
+        <option value="$PROJECT_DIR$/07-react.js/react-boilerplate-master/build/js/app.js" />
+        <option value="$PROJECT_DIR$/07-react.js/react-boilerplate-master/components/button-create.js" />
+        <option value="$PROJECT_DIR$/07-react.js/react-boilerplate-master/views/store.js" />
+        <option value="$PROJECT_DIR$/07-react.js/react-boilerplate-master/views/addMovieView.js" />
+        <option value="$PROJECT_DIR$/07-react.js/react-boilerplate-master/build/css/style.css" />
+        <option value="$PROJECT_DIR$/07-react.js/react-boilerplate-master/index.js" />
+        <option value="$PROJECT_DIR$/07-react.js/react-boilerplate-master/lib/movie.js" />
+        <option value="$PROJECT_DIR$/07-react.js/react-boilerplate-master/sass/main.scss" />
+        <option value="$PROJECT_DIR$/07-react.js/react-boilerplate-master/stores/movie-store-action.js" />
+        <option value="$PROJECT_DIR$/07-react.js/react-boilerplate-master/stores/movie-store.js" />
+        <option value="$PROJECT_DIR$/07-react.js/react-boilerplate-master/components/movie-table.js" />
+        <option value="$PROJECT_DIR$/07-react.js/react-boilerplate-master/components/title-component.js" />
+        <option value="$PROJECT_DIR$/07-react.js/react-boilerplate-master/components/form-group.js" />
+        <option value="$PROJECT_DIR$/07-react.js/react-boilerplate-master/views/add-movie-view.js" />
+        <option value="$PROJECT_DIR$/07-react.js/react-boilerplate-master/components/input.js" />
+        <option value="$PROJECT_DIR$/07-react.js/react-boilerplate-master/components/button.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="width" value="1682" />
+    <option name="height" value="1025" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Problems" />
+        <subPane subId="Project Files" />
+      </pane>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="startup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="startup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="startup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="startup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="startup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="07-react.js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-boilerplate-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="startup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="startup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="07-react.js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-boilerplate-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="startup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="startup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="07-react.js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-boilerplate-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="startup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="startup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="03-Node-npm-modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../reactJs" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="FullScreen" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="JavaScriptLanguageLevel" value="JSX" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/01-js-intro-and-jquery/Topic 1:JavaScriptIntro and JQery part 2/css" />
+      <recent name="$PROJECT_DIR$/01-js-intro-and-jquery/Topic 1:JavaScriptIntro and JQery part 2/js" />
+      <recent name="$PROJECT_DIR$/01-js-intro-and-jquery/Topic 1: JavaScript Intro and jQuery/css" />
+      <recent name="$PROJECT_DIR$/01-js-intro-and-jquery/Tema 1: Introducción JavaScript y jQuery/js" />
+      <recent name="$PROJECT_DIR$/00-HTML-CSS-basics/2-HTML-CSS-basics-2.5.3/css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/03-Node-npm-modules" />
+      <recent name="$PROJECT_DIR$/03-Node-npm-modules/js" />
+      <recent name="$PROJECT_DIR$/00-HTML-CSS-basics/2-HTML-CSS-basics-2.5.2/img" />
+      <recent name="$PROJECT_DIR$/00-HTML-CSS-basics/2-HTML-CSS-basics-2.5.2/css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0d7b07e-058b-4ea9-8ff5-97793ed9784d" name="Default" comment="" />
+      <created>1441775812664</created>
+      <option name="number" value="Default" />
+      <updated>1441775812664</updated>
+    </task>
+    <task id="LOCAL-00001" summary="**Work done:**&#10;&#10;- **Ex0.1:** done.&#10;- **Ex0.2:** done.&#10;&#10;**Comments:**&#10;Work Done.">
+      <created>1441776097118</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1441776097118</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[Maximiliano Castro] - 00 - previous corrections, completed 2.4 - 2.5, pending 2.6">
+      <created>1442105880825</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1442105880825</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[Maximiliano Castro] - 00 - completed  2.6">
+      <created>1442174352537</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1442174352537</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[Maximiliano Castro] - 01-js-intro-and-jquery- completed  1,2,3,4,5,6,7,9">
+      <created>1442295024382</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1442295024382</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[Maximiliano Castro] - 01-js-intro-and-jquery- completed  12, 13">
+      <created>1442502639399</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1442502639399</updated>
+    </task>
+    <task id="LOCAL-00006" summary="[Maximiliano Castro] - 02-oop-inheritance- completed  1,2,3,4,5,6,7,8">
+      <created>1442715502987</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1442715502987</updated>
+    </task>
+    <task id="LOCAL-00007" summary="[Maximiliano Castro] - 02-oop-inheritance- completed  1,2,3,4,5,6,7,8">
+      <created>1442716163758</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1442716163758</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="0" width="1682" height="1025" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.59908885" sideWeight="0.7773084" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24924563" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12914906" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31321186" sideWeight="0.22269161" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32801822" sideWeight="0.49019608" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286385" sideWeight="0.4852941" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914287" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="**Work done:**&#10;&#10;- **Ex0.1:** done.&#10;- **Ex0.2:** done.&#10;&#10;**Comments:**&#10;Work Done." />
+    <MESSAGE value="[Maximiliano Castro] - 00 - previous corrections, completed 2.4 - 2.5, pending 2.6" />
+    <MESSAGE value="[Maximiliano Castro] - 00 - completed  2.6" />
+    <MESSAGE value="[Maximiliano Castro] - 01-js-intro-and-jquery- completed  1,2,3,4,5,6,7,9" />
+    <MESSAGE value="[Maximiliano Castro] - 01-js-intro-and-jquery- completed  12, 13" />
+    <MESSAGE value="[Maximiliano Castro] - 02-oop-inheritance- completed  1,2,3,4,5,6,7,8" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Maximiliano Castro] - 02-oop-inheritance- completed  1,2,3,4,5,6,7,8" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/00-HTML-CSS-basics/1-HTML-CSS-basics/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="10" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00-HTML-CSS-basics/1-HTML-CSS-basics/expenses.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00-HTML-CSS-basics/2-HTML-CSS-basics/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00-HTML-CSS-basics/2-HTML-CSS-basics/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00-HTML-CSS-basics/1-HTML-CSS-basics/Image-video-song.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00-HTML-CSS-basics/2-HTML-CSS-basics/.idea/2-HTML-CSS-basics.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9375">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00-HTML-CSS-basics/1-HTML-CSS-basics/Image-video-song.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2189781">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00-HTML-CSS-basics/1-HTML-CSS-basics/expenses.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.425876">
+          <caret line="100" column="38" selection-start-line="100" selection-start-column="38" selection-end-line="100" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00-HTML-CSS-basics/2-HTML-CSS-basics/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14263074">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00-HTML-CSS-basics/2-HTML-CSS-basics/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29909366">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-react.js/react-boilerplate-master/build/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3968504">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00-HTML-CSS-basics/1-HTML-CSS-basics/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00-HTML-CSS-basics/1-HTML-CSS-basics/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.83189654">
+          <caret line="36" column="10" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-react.js/react-boilerplate-master/build/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.025">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-react.js/react-boilerplate-master/build/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00-HTML-CSS-basics/1-HTML-CSS-basics/js/jquery-2.1.4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.454414">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-react.js/react-boilerplate-master/build/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="6.1993723">
+          <caret line="32404" column="0" selection-start-line="32404" selection-start-column="0" selection-end-line="32404" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-react.js/react-boilerplate-master/components/form-group.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <marker date="1444704961605" expanded="true" signature="120:180" placeholder="&lt;xml/&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-react.js/react-boilerplate-master/views/add-movie-view.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-react.js/react-boilerplate-master/components/button.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-react.js/react-boilerplate-master/components/input.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8359133">
+          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

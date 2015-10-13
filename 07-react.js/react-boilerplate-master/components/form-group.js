@@ -1,6 +1,6 @@
 var react = require ('react');
 
-var FormGroup = react.createClass ({
+var FormGroup = react.createClass({
    render: function () {
        return (
            <div>

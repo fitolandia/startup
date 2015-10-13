@@ -4,7 +4,7 @@ var _ = require('lodash');
 var Button = React.createClass({
 
     propTypes: {
-        onClick: React.PropTypes.func.isRequired
+        onClick: React.PropTypes.func
     },
 
     render: function() {
